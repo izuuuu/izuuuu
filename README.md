@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izuuuu&label=Profile%20views&color=0e75b6&style=flat" alt="izuuuu" /> </p>
 
-- 🌱 I’m currently learning **useId() Hook in React**
+- 🌱 I’m currently learning **Custom Hooks in React**
 
 - 💬 Ask me about **Tailwind CSS**
 
