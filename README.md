@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isuru</h1>
-<h3 align="center">A dedicated, highly analytical, innovative, and performance-driven professional Front/Back End Web Developer with 3 years of experience in web-based development and design.</h3>
+<h3 align="center">A dedicated, highly analytical, innovative, and performance-driven professional Front/Back End Web Developer with 5 years of experience in web-based development and design.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
