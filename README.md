@@ -15,10 +15,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/isuru-dharmasiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isuru-dharmasiri/" height="30" width="40" /></a>
 </p>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=izuuuu&show_icons=true&theme=radical"
-    alt="Isuru's GitHub stats"
-  />
+ 
+<h3 style="text-align: left; margin-top: 10px;">GitHub contribution graph</h3>
 
 ![Snake animation](https://github.com/izuuuu/izuuuu/blob/output/github-contribution-grid-snake.svg)
 
