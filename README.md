@@ -16,10 +16,7 @@
 </p>
 
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=izuuuu&show_icons=true&theme=radical"
-    alt="Isuru's GitHub stats"
-  />
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 
 <h3 align="left">Languages and Tools:</h3>
