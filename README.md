@@ -8,7 +8,7 @@
 - 📱 Currently working on **Expo + React Native applications**
 - 🌱 Learning **Laravel Spatie packages (roles & permissions)**
 - ⚛️ Focused on **React, React Native, and modern component architecture**
-- 💬 Ask me about **React Native, Expo, or Tailwind CSS**
+- 💬 Ask me about **React Native or Expo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
