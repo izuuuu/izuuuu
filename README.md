@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izuuuu&label=Profile%20views&color=0e75b6&style=flat" alt="izuuuu" /> </p>
 
 - 📱 Currently working on **Expo + React Native applications**
-- 🌱 Learning **Laravel Spatie packages (roles & permissions)**
+- 🌱 Learning **Laravel Spatie packages**
 - ⚛️ Focused on **React, React Native, and modern component architecture**
 - 💬 Ask me about **React Native or Expo**
 
